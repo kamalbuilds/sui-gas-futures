@@ -47,7 +47,7 @@ Abhishek is a skilled frontend developer with experience in building user-friend
 
 ## Other Funding Sources
 
-We have received a $25,000 grant from the Sui Foundation's Developer Program to support the initial research and development of the Gas Futures concept. This funding has been used to create the initial prototype and conduct market research.
+We have developed this prototype with market research without any grants to support our initial research and development of the Gas Futures concept.
 
 ## Long-term Plan
 

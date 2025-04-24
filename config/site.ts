@@ -28,7 +28,7 @@ export const siteConfig = {
   ],
   links: {
     twitter: "https://x.com/suigasfutures",
-    github: "https://github.com/suigasfutures",
+    github: "https://github.com/kamalbuilds/suigasfutures",
     docs: "https://docs.suigasfutures.com",
   },
 }
